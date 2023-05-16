@@ -23,7 +23,7 @@ make
 Execute the following command.
 
 ```sh
-./lu-decomp-solver
+./search-max-rectangle
 ```
 
 ## Remove execution program
