@@ -19,8 +19,8 @@ static int calculate_rectangle_size(
 );
 
 int search_max_rectangle(
-    int num, const struct
-    SMR_ellipse_t *ellipses,
+    int num,
+    const struct SMR_ellipse_t *ellipses,
     struct SMR_rectangle_t *max_rectangle
 ) {
     int ret = (int)SMR_FAILED;
